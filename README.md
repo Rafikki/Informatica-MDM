@@ -1,2 +1,2 @@
 # Informatica-MDM
-SQL for Informatica MDM
+Queries and other usefull goodies for Informatica MDM

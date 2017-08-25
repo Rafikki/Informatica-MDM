@@ -8,7 +8,7 @@
   | Revisions: See GIT History                                               |
 \*+--------------------------------------------------------------------------+*/
 
---Select Global Id's 
+--Select Global Id's based on entity name
 select cmx_ors.c_bo_local_item_spec.local_name,
        cmx_ors.c_bo_item_spec.global_item_id,
        cmx_ors.c_bo_local_item_spec.last_update_date
